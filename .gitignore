@@ -1,0 +1,15 @@
+#python
+db.sqlite3
+*.pyc
+__pycache__/
+
+#virtualenv
+venv/
+bin/
+include/
+lib/
+pip-selfcheck.json
+.Python
+
+#pycharm
+.idea/
